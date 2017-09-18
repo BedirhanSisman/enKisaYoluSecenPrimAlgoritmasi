@@ -1,0 +1,2 @@
+# enKisaYoluSecenPrimAlgoritmasi
+Prim Algoritması Uygulaması
